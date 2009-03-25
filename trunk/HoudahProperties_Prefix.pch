@@ -1,0 +1,12 @@
+//
+// Prefix header for all source files of the 'HoudahProperties' target in the 'HoudahProperties' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import <UIKit/UIKit.h>
+
+	#import "HoudahPropertiesAppDelegate.h"
+
+	#define UIApp [UIApplication sharedApplication]
+#endif
