@@ -7,37 +7,37 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		1D3623260D0F684500981E51 /* HoudahPropertiesAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D3623250D0F684500981E51 /* HoudahPropertiesAppDelegate.m */; };
+		1D3623260D0F684500981E51 /* HHHoudahPropertiesAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D3623250D0F684500981E51 /* HHHoudahPropertiesAppDelegate.m */; };
 		1D60589B0D05DD56006BFB54 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 29B97316FDCFA39411CA2CEA /* main.m */; };
 		1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D30AB110D05D00D00671497 /* Foundation.framework */; };
 		1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1DF5F4DF0D08C38300B7A737 /* UIKit.framework */; };
 		2892E4100DC94CBA00A64D0F /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2892E40F0DC94CBA00A64D0F /* CoreGraphics.framework */; };
 		28AD73600D9D9599002E5188 /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 28AD735F0D9D9599002E5188 /* MainWindow.xib */; };
-		8F3C515A0F7AECDB008B0B3B /* LongTextViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F3C51550F7AECDB008B0B3B /* LongTextViewController.m */; };
-		8F3C515B0F7AECDB008B0B3B /* PropertiesViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F3C51570F7AECDB008B0B3B /* PropertiesViewController.m */; };
-		8F3C515C0F7AECDB008B0B3B /* SelectionViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F3C51590F7AECDB008B0B3B /* SelectionViewController.m */; };
-		8F3C51710F7AECE7008B0B3B /* BoolTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F3C515E0F7AECE6008B0B3B /* BoolTableViewCell.m */; };
-		8F3C51720F7AECE7008B0B3B /* ButtonTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F3C51600F7AECE6008B0B3B /* ButtonTableViewCell.m */; };
-		8F3C51730F7AECE7008B0B3B /* ItemTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F3C51620F7AECE6008B0B3B /* ItemTableViewCell.m */; };
-		8F3C51740F7AECE7008B0B3B /* LongTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F3C51640F7AECE6008B0B3B /* LongTableViewCell.m */; };
-		8F3C51750F7AECE7008B0B3B /* PropertyTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F3C51660F7AECE7008B0B3B /* PropertyTableViewCell.m */; };
-		8F3C51760F7AECE7008B0B3B /* SelectionTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F3C51680F7AECE7008B0B3B /* SelectionTableViewCell.m */; };
-		8F3C51770F7AECE7008B0B3B /* StandbyTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F3C516A0F7AECE7008B0B3B /* StandbyTableViewCell.m */; };
-		8F3C51780F7AECE7008B0B3B /* SubPropertyTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F3C516C0F7AECE7008B0B3B /* SubPropertyTableViewCell.m */; };
-		8F3C51790F7AECE7008B0B3B /* TableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F3C516E0F7AECE7008B0B3B /* TableViewCell.m */; };
-		8F3C517A0F7AECE7008B0B3B /* TextTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F3C51700F7AECE7008B0B3B /* TextTableViewCell.m */; };
-		8F3C518B0F7AEEE7008B0B3B /* UserDefaultsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F3C518A0F7AEEE7008B0B3B /* UserDefaultsViewController.m */; };
-		8F3C51960F7AF189008B0B3B /* PrivacyFormatter.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F3C51910F7AF189008B0B3B /* PrivacyFormatter.m */; };
-		8F3C51970F7AF189008B0B3B /* ResolutionFormatter.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F3C51930F7AF189008B0B3B /* ResolutionFormatter.m */; };
-		8F3C51980F7AF189008B0B3B /* MultivalueFormatter.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F3C51950F7AF189008B0B3B /* MultivalueFormatter.m */; };
+		8F3C515A0F7AECDB008B0B3B /* HHLongTextViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F3C51550F7AECDB008B0B3B /* HHLongTextViewController.m */; };
+		8F3C515B0F7AECDB008B0B3B /* HHPropertiesViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F3C51570F7AECDB008B0B3B /* HHPropertiesViewController.m */; };
+		8F3C515C0F7AECDB008B0B3B /* HHSelectionViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F3C51590F7AECDB008B0B3B /* HHSelectionViewController.m */; };
+		8F3C51710F7AECE7008B0B3B /* HHBoolTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F3C515E0F7AECE6008B0B3B /* HHBoolTableViewCell.m */; };
+		8F3C51720F7AECE7008B0B3B /* HHButtonTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F3C51600F7AECE6008B0B3B /* HHButtonTableViewCell.m */; };
+		8F3C51730F7AECE7008B0B3B /* HHItemTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F3C51620F7AECE6008B0B3B /* HHItemTableViewCell.m */; };
+		8F3C51740F7AECE7008B0B3B /* HHLongTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F3C51640F7AECE6008B0B3B /* HHLongTableViewCell.m */; };
+		8F3C51750F7AECE7008B0B3B /* HHPropertyTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F3C51660F7AECE7008B0B3B /* HHPropertyTableViewCell.m */; };
+		8F3C51760F7AECE7008B0B3B /* HHSelectionTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F3C51680F7AECE7008B0B3B /* HHSelectionTableViewCell.m */; };
+		8F3C51770F7AECE7008B0B3B /* HHStandbyTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F3C516A0F7AECE7008B0B3B /* HHStandbyTableViewCell.m */; };
+		8F3C51780F7AECE7008B0B3B /* HHSubPropertyTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F3C516C0F7AECE7008B0B3B /* HHSubPropertyTableViewCell.m */; };
+		8F3C51790F7AECE7008B0B3B /* HHTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F3C516E0F7AECE7008B0B3B /* HHTableViewCell.m */; };
+		8F3C517A0F7AECE7008B0B3B /* HHTextTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F3C51700F7AECE7008B0B3B /* HHTextTableViewCell.m */; };
+		8F3C518B0F7AEEE7008B0B3B /* HHUserDefaultsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F3C518A0F7AEEE7008B0B3B /* HHUserDefaultsViewController.m */; };
+		8F3C51960F7AF189008B0B3B /* HHPrivacyFormatter.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F3C51910F7AF189008B0B3B /* HHPrivacyFormatter.m */; };
+		8F3C51970F7AF189008B0B3B /* HHResolutionFormatter.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F3C51930F7AF189008B0B3B /* HHResolutionFormatter.m */; };
+		8F3C51980F7AF189008B0B3B /* HHMultivalueFormatter.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F3C51950F7AF189008B0B3B /* HHMultivalueFormatter.m */; };
 		8F3C53A80F7C3F8B008B0B3B /* SelectionViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8F3C53A60F7C3F8B008B0B3B /* SelectionViewController.xib */; };
 		8F3C53A90F7C3F8B008B0B3B /* PropertiesViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8F3C53A70F7C3F8B008B0B3B /* PropertiesViewController.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		1D30AB110D05D00D00671497 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
-		1D3623240D0F684500981E51 /* HoudahPropertiesAppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HoudahPropertiesAppDelegate.h; sourceTree = "<group>"; };
-		1D3623250D0F684500981E51 /* HoudahPropertiesAppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HoudahPropertiesAppDelegate.m; sourceTree = "<group>"; };
+		1D3623240D0F684500981E51 /* HHHoudahPropertiesAppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HHHoudahPropertiesAppDelegate.h; sourceTree = "<group>"; };
+		1D3623250D0F684500981E51 /* HHHoudahPropertiesAppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HHHoudahPropertiesAppDelegate.m; sourceTree = "<group>"; };
 		1D6058910D05DD3D006BFB54 /* HoudahProperties.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HoudahProperties.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1DF5F4DF0D08C38300B7A737 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		2892E40F0DC94CBA00A64D0F /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -45,40 +45,40 @@
 		28AD735F0D9D9599002E5188 /* MainWindow.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MainWindow.xib; sourceTree = "<group>"; };
 		29B97316FDCFA39411CA2CEA /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		8D1107310486CEB800E47090 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		8F3C51540F7AECDB008B0B3B /* LongTextViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LongTextViewController.h; sourceTree = "<group>"; };
-		8F3C51550F7AECDB008B0B3B /* LongTextViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LongTextViewController.m; sourceTree = "<group>"; };
-		8F3C51560F7AECDB008B0B3B /* PropertiesViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PropertiesViewController.h; sourceTree = "<group>"; };
-		8F3C51570F7AECDB008B0B3B /* PropertiesViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PropertiesViewController.m; sourceTree = "<group>"; };
-		8F3C51580F7AECDB008B0B3B /* SelectionViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SelectionViewController.h; sourceTree = "<group>"; };
-		8F3C51590F7AECDB008B0B3B /* SelectionViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SelectionViewController.m; sourceTree = "<group>"; };
-		8F3C515D0F7AECE6008B0B3B /* BoolTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BoolTableViewCell.h; sourceTree = "<group>"; };
-		8F3C515E0F7AECE6008B0B3B /* BoolTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BoolTableViewCell.m; sourceTree = "<group>"; };
-		8F3C515F0F7AECE6008B0B3B /* ButtonTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ButtonTableViewCell.h; sourceTree = "<group>"; };
-		8F3C51600F7AECE6008B0B3B /* ButtonTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ButtonTableViewCell.m; sourceTree = "<group>"; };
-		8F3C51610F7AECE6008B0B3B /* ItemTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ItemTableViewCell.h; sourceTree = "<group>"; };
-		8F3C51620F7AECE6008B0B3B /* ItemTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ItemTableViewCell.m; sourceTree = "<group>"; };
-		8F3C51630F7AECE6008B0B3B /* LongTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LongTableViewCell.h; sourceTree = "<group>"; };
-		8F3C51640F7AECE6008B0B3B /* LongTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LongTableViewCell.m; sourceTree = "<group>"; };
-		8F3C51650F7AECE6008B0B3B /* PropertyTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PropertyTableViewCell.h; sourceTree = "<group>"; };
-		8F3C51660F7AECE7008B0B3B /* PropertyTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PropertyTableViewCell.m; sourceTree = "<group>"; };
-		8F3C51670F7AECE7008B0B3B /* SelectionTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SelectionTableViewCell.h; sourceTree = "<group>"; };
-		8F3C51680F7AECE7008B0B3B /* SelectionTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SelectionTableViewCell.m; sourceTree = "<group>"; };
-		8F3C51690F7AECE7008B0B3B /* StandbyTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = StandbyTableViewCell.h; sourceTree = "<group>"; };
-		8F3C516A0F7AECE7008B0B3B /* StandbyTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = StandbyTableViewCell.m; sourceTree = "<group>"; };
-		8F3C516B0F7AECE7008B0B3B /* SubPropertyTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SubPropertyTableViewCell.h; sourceTree = "<group>"; };
-		8F3C516C0F7AECE7008B0B3B /* SubPropertyTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SubPropertyTableViewCell.m; sourceTree = "<group>"; };
-		8F3C516D0F7AECE7008B0B3B /* TableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TableViewCell.h; sourceTree = "<group>"; };
-		8F3C516E0F7AECE7008B0B3B /* TableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TableViewCell.m; sourceTree = "<group>"; };
-		8F3C516F0F7AECE7008B0B3B /* TextTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TextTableViewCell.h; sourceTree = "<group>"; };
-		8F3C51700F7AECE7008B0B3B /* TextTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TextTableViewCell.m; sourceTree = "<group>"; };
-		8F3C51890F7AEEE7008B0B3B /* UserDefaultsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UserDefaultsViewController.h; sourceTree = "<group>"; };
-		8F3C518A0F7AEEE7008B0B3B /* UserDefaultsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = UserDefaultsViewController.m; sourceTree = "<group>"; };
-		8F3C51900F7AF189008B0B3B /* PrivacyFormatter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PrivacyFormatter.h; sourceTree = "<group>"; };
-		8F3C51910F7AF189008B0B3B /* PrivacyFormatter.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PrivacyFormatter.m; sourceTree = "<group>"; };
-		8F3C51920F7AF189008B0B3B /* ResolutionFormatter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ResolutionFormatter.h; sourceTree = "<group>"; };
-		8F3C51930F7AF189008B0B3B /* ResolutionFormatter.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ResolutionFormatter.m; sourceTree = "<group>"; };
-		8F3C51940F7AF189008B0B3B /* MultivalueFormatter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MultivalueFormatter.h; sourceTree = "<group>"; };
-		8F3C51950F7AF189008B0B3B /* MultivalueFormatter.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MultivalueFormatter.m; sourceTree = "<group>"; };
+		8F3C51540F7AECDB008B0B3B /* HHLongTextViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HHLongTextViewController.h; sourceTree = "<group>"; };
+		8F3C51550F7AECDB008B0B3B /* HHLongTextViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HHLongTextViewController.m; sourceTree = "<group>"; };
+		8F3C51560F7AECDB008B0B3B /* HHPropertiesViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HHPropertiesViewController.h; sourceTree = "<group>"; };
+		8F3C51570F7AECDB008B0B3B /* HHPropertiesViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HHPropertiesViewController.m; sourceTree = "<group>"; };
+		8F3C51580F7AECDB008B0B3B /* HHSelectionViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HHSelectionViewController.h; sourceTree = "<group>"; };
+		8F3C51590F7AECDB008B0B3B /* HHSelectionViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HHSelectionViewController.m; sourceTree = "<group>"; };
+		8F3C515D0F7AECE6008B0B3B /* HHBoolTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HHBoolTableViewCell.h; sourceTree = "<group>"; };
+		8F3C515E0F7AECE6008B0B3B /* HHBoolTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HHBoolTableViewCell.m; sourceTree = "<group>"; };
+		8F3C515F0F7AECE6008B0B3B /* HHButtonTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HHButtonTableViewCell.h; sourceTree = "<group>"; };
+		8F3C51600F7AECE6008B0B3B /* HHButtonTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HHButtonTableViewCell.m; sourceTree = "<group>"; };
+		8F3C51610F7AECE6008B0B3B /* HHItemTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HHItemTableViewCell.h; sourceTree = "<group>"; };
+		8F3C51620F7AECE6008B0B3B /* HHItemTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HHItemTableViewCell.m; sourceTree = "<group>"; };
+		8F3C51630F7AECE6008B0B3B /* HHLongTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HHLongTableViewCell.h; sourceTree = "<group>"; };
+		8F3C51640F7AECE6008B0B3B /* HHLongTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HHLongTableViewCell.m; sourceTree = "<group>"; };
+		8F3C51650F7AECE6008B0B3B /* HHPropertyTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HHPropertyTableViewCell.h; sourceTree = "<group>"; };
+		8F3C51660F7AECE7008B0B3B /* HHPropertyTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HHPropertyTableViewCell.m; sourceTree = "<group>"; };
+		8F3C51670F7AECE7008B0B3B /* HHSelectionTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HHSelectionTableViewCell.h; sourceTree = "<group>"; };
+		8F3C51680F7AECE7008B0B3B /* HHSelectionTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HHSelectionTableViewCell.m; sourceTree = "<group>"; };
+		8F3C51690F7AECE7008B0B3B /* HHStandbyTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HHStandbyTableViewCell.h; sourceTree = "<group>"; };
+		8F3C516A0F7AECE7008B0B3B /* HHStandbyTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HHStandbyTableViewCell.m; sourceTree = "<group>"; };
+		8F3C516B0F7AECE7008B0B3B /* HHSubPropertyTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HHSubPropertyTableViewCell.h; sourceTree = "<group>"; };
+		8F3C516C0F7AECE7008B0B3B /* HHSubPropertyTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HHSubPropertyTableViewCell.m; sourceTree = "<group>"; };
+		8F3C516D0F7AECE7008B0B3B /* HHTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HHTableViewCell.h; sourceTree = "<group>"; };
+		8F3C516E0F7AECE7008B0B3B /* HHTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HHTableViewCell.m; sourceTree = "<group>"; };
+		8F3C516F0F7AECE7008B0B3B /* HHTextTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HHTextTableViewCell.h; sourceTree = "<group>"; };
+		8F3C51700F7AECE7008B0B3B /* HHTextTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HHTextTableViewCell.m; sourceTree = "<group>"; };
+		8F3C51890F7AEEE7008B0B3B /* HHUserDefaultsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HHUserDefaultsViewController.h; sourceTree = "<group>"; };
+		8F3C518A0F7AEEE7008B0B3B /* HHUserDefaultsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HHUserDefaultsViewController.m; sourceTree = "<group>"; };
+		8F3C51900F7AF189008B0B3B /* HHPrivacyFormatter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HHPrivacyFormatter.h; sourceTree = "<group>"; };
+		8F3C51910F7AF189008B0B3B /* HHPrivacyFormatter.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HHPrivacyFormatter.m; sourceTree = "<group>"; };
+		8F3C51920F7AF189008B0B3B /* HHResolutionFormatter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HHResolutionFormatter.h; sourceTree = "<group>"; };
+		8F3C51930F7AF189008B0B3B /* HHResolutionFormatter.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HHResolutionFormatter.m; sourceTree = "<group>"; };
+		8F3C51940F7AF189008B0B3B /* HHMultivalueFormatter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HHMultivalueFormatter.h; sourceTree = "<group>"; };
+		8F3C51950F7AF189008B0B3B /* HHMultivalueFormatter.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HHMultivalueFormatter.m; sourceTree = "<group>"; };
 		8F3C53A60F7C3F8B008B0B3B /* SelectionViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = SelectionViewController.xib; sourceTree = "<group>"; };
 		8F3C53A70F7C3F8B008B0B3B /* PropertiesViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = PropertiesViewController.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -167,12 +167,12 @@
 		8F3C51520F7AECC5008B0B3B /* Controllers */ = {
 			isa = PBXGroup;
 			children = (
-				8F3C51540F7AECDB008B0B3B /* LongTextViewController.h */,
-				8F3C51550F7AECDB008B0B3B /* LongTextViewController.m */,
-				8F3C51560F7AECDB008B0B3B /* PropertiesViewController.h */,
-				8F3C51570F7AECDB008B0B3B /* PropertiesViewController.m */,
-				8F3C51580F7AECDB008B0B3B /* SelectionViewController.h */,
-				8F3C51590F7AECDB008B0B3B /* SelectionViewController.m */,
+				8F3C51540F7AECDB008B0B3B /* HHLongTextViewController.h */,
+				8F3C51550F7AECDB008B0B3B /* HHLongTextViewController.m */,
+				8F3C51560F7AECDB008B0B3B /* HHPropertiesViewController.h */,
+				8F3C51570F7AECDB008B0B3B /* HHPropertiesViewController.m */,
+				8F3C51580F7AECDB008B0B3B /* HHSelectionViewController.h */,
+				8F3C51590F7AECDB008B0B3B /* HHSelectionViewController.m */,
 			);
 			name = Controllers;
 			sourceTree = "<group>";
@@ -180,26 +180,26 @@
 		8F3C51530F7AECCB008B0B3B /* Views */ = {
 			isa = PBXGroup;
 			children = (
-				8F3C515D0F7AECE6008B0B3B /* BoolTableViewCell.h */,
-				8F3C515E0F7AECE6008B0B3B /* BoolTableViewCell.m */,
-				8F3C515F0F7AECE6008B0B3B /* ButtonTableViewCell.h */,
-				8F3C51600F7AECE6008B0B3B /* ButtonTableViewCell.m */,
-				8F3C51610F7AECE6008B0B3B /* ItemTableViewCell.h */,
-				8F3C51620F7AECE6008B0B3B /* ItemTableViewCell.m */,
-				8F3C51630F7AECE6008B0B3B /* LongTableViewCell.h */,
-				8F3C51640F7AECE6008B0B3B /* LongTableViewCell.m */,
-				8F3C51650F7AECE6008B0B3B /* PropertyTableViewCell.h */,
-				8F3C51660F7AECE7008B0B3B /* PropertyTableViewCell.m */,
-				8F3C51670F7AECE7008B0B3B /* SelectionTableViewCell.h */,
-				8F3C51680F7AECE7008B0B3B /* SelectionTableViewCell.m */,
-				8F3C51690F7AECE7008B0B3B /* StandbyTableViewCell.h */,
-				8F3C516A0F7AECE7008B0B3B /* StandbyTableViewCell.m */,
-				8F3C516B0F7AECE7008B0B3B /* SubPropertyTableViewCell.h */,
-				8F3C516C0F7AECE7008B0B3B /* SubPropertyTableViewCell.m */,
-				8F3C516D0F7AECE7008B0B3B /* TableViewCell.h */,
-				8F3C516E0F7AECE7008B0B3B /* TableViewCell.m */,
-				8F3C516F0F7AECE7008B0B3B /* TextTableViewCell.h */,
-				8F3C51700F7AECE7008B0B3B /* TextTableViewCell.m */,
+				8F3C515D0F7AECE6008B0B3B /* HHBoolTableViewCell.h */,
+				8F3C515E0F7AECE6008B0B3B /* HHBoolTableViewCell.m */,
+				8F3C515F0F7AECE6008B0B3B /* HHButtonTableViewCell.h */,
+				8F3C51600F7AECE6008B0B3B /* HHButtonTableViewCell.m */,
+				8F3C51610F7AECE6008B0B3B /* HHItemTableViewCell.h */,
+				8F3C51620F7AECE6008B0B3B /* HHItemTableViewCell.m */,
+				8F3C51630F7AECE6008B0B3B /* HHLongTableViewCell.h */,
+				8F3C51640F7AECE6008B0B3B /* HHLongTableViewCell.m */,
+				8F3C51650F7AECE6008B0B3B /* HHPropertyTableViewCell.h */,
+				8F3C51660F7AECE7008B0B3B /* HHPropertyTableViewCell.m */,
+				8F3C51670F7AECE7008B0B3B /* HHSelectionTableViewCell.h */,
+				8F3C51680F7AECE7008B0B3B /* HHSelectionTableViewCell.m */,
+				8F3C51690F7AECE7008B0B3B /* HHStandbyTableViewCell.h */,
+				8F3C516A0F7AECE7008B0B3B /* HHStandbyTableViewCell.m */,
+				8F3C516B0F7AECE7008B0B3B /* HHSubPropertyTableViewCell.h */,
+				8F3C516C0F7AECE7008B0B3B /* HHSubPropertyTableViewCell.m */,
+				8F3C516D0F7AECE7008B0B3B /* HHTableViewCell.h */,
+				8F3C516E0F7AECE7008B0B3B /* HHTableViewCell.m */,
+				8F3C516F0F7AECE7008B0B3B /* HHTextTableViewCell.h */,
+				8F3C51700F7AECE7008B0B3B /* HHTextTableViewCell.m */,
 			);
 			name = Views;
 			sourceTree = "<group>";
@@ -207,12 +207,12 @@
 		8F3C518F0F7AF169008B0B3B /* Formatters */ = {
 			isa = PBXGroup;
 			children = (
-				8F3C51940F7AF189008B0B3B /* MultivalueFormatter.h */,
-				8F3C51950F7AF189008B0B3B /* MultivalueFormatter.m */,
-				8F3C51900F7AF189008B0B3B /* PrivacyFormatter.h */,
-				8F3C51910F7AF189008B0B3B /* PrivacyFormatter.m */,
-				8F3C51920F7AF189008B0B3B /* ResolutionFormatter.h */,
-				8F3C51930F7AF189008B0B3B /* ResolutionFormatter.m */,
+				8F3C51940F7AF189008B0B3B /* HHMultivalueFormatter.h */,
+				8F3C51950F7AF189008B0B3B /* HHMultivalueFormatter.m */,
+				8F3C51900F7AF189008B0B3B /* HHPrivacyFormatter.h */,
+				8F3C51910F7AF189008B0B3B /* HHPrivacyFormatter.m */,
+				8F3C51920F7AF189008B0B3B /* HHResolutionFormatter.h */,
+				8F3C51930F7AF189008B0B3B /* HHResolutionFormatter.m */,
 			);
 			name = Formatters;
 			sourceTree = "<group>";
@@ -238,10 +238,10 @@
 		8F3C522F0F7AF308008B0B3B /* Application */ = {
 			isa = PBXGroup;
 			children = (
-				1D3623240D0F684500981E51 /* HoudahPropertiesAppDelegate.h */,
-				1D3623250D0F684500981E51 /* HoudahPropertiesAppDelegate.m */,
-				8F3C51890F7AEEE7008B0B3B /* UserDefaultsViewController.h */,
-				8F3C518A0F7AEEE7008B0B3B /* UserDefaultsViewController.m */,
+				1D3623240D0F684500981E51 /* HHHoudahPropertiesAppDelegate.h */,
+				1D3623250D0F684500981E51 /* HHHoudahPropertiesAppDelegate.m */,
+				8F3C51890F7AEEE7008B0B3B /* HHUserDefaultsViewController.h */,
+				8F3C518A0F7AEEE7008B0B3B /* HHUserDefaultsViewController.m */,
 			);
 			name = Application;
 			sourceTree = "<group>";
@@ -309,24 +309,24 @@
 			buildActionMask = 2147483647;
 			files = (
 				1D60589B0D05DD56006BFB54 /* main.m in Sources */,
-				1D3623260D0F684500981E51 /* HoudahPropertiesAppDelegate.m in Sources */,
-				8F3C515A0F7AECDB008B0B3B /* LongTextViewController.m in Sources */,
-				8F3C515B0F7AECDB008B0B3B /* PropertiesViewController.m in Sources */,
-				8F3C515C0F7AECDB008B0B3B /* SelectionViewController.m in Sources */,
-				8F3C51710F7AECE7008B0B3B /* BoolTableViewCell.m in Sources */,
-				8F3C51720F7AECE7008B0B3B /* ButtonTableViewCell.m in Sources */,
-				8F3C51730F7AECE7008B0B3B /* ItemTableViewCell.m in Sources */,
-				8F3C51740F7AECE7008B0B3B /* LongTableViewCell.m in Sources */,
-				8F3C51750F7AECE7008B0B3B /* PropertyTableViewCell.m in Sources */,
-				8F3C51760F7AECE7008B0B3B /* SelectionTableViewCell.m in Sources */,
-				8F3C51770F7AECE7008B0B3B /* StandbyTableViewCell.m in Sources */,
-				8F3C51780F7AECE7008B0B3B /* SubPropertyTableViewCell.m in Sources */,
-				8F3C51790F7AECE7008B0B3B /* TableViewCell.m in Sources */,
-				8F3C517A0F7AECE7008B0B3B /* TextTableViewCell.m in Sources */,
-				8F3C518B0F7AEEE7008B0B3B /* UserDefaultsViewController.m in Sources */,
-				8F3C51960F7AF189008B0B3B /* PrivacyFormatter.m in Sources */,
-				8F3C51970F7AF189008B0B3B /* ResolutionFormatter.m in Sources */,
-				8F3C51980F7AF189008B0B3B /* MultivalueFormatter.m in Sources */,
+				1D3623260D0F684500981E51 /* HHHoudahPropertiesAppDelegate.m in Sources */,
+				8F3C515A0F7AECDB008B0B3B /* HHLongTextViewController.m in Sources */,
+				8F3C515B0F7AECDB008B0B3B /* HHPropertiesViewController.m in Sources */,
+				8F3C515C0F7AECDB008B0B3B /* HHSelectionViewController.m in Sources */,
+				8F3C51710F7AECE7008B0B3B /* HHBoolTableViewCell.m in Sources */,
+				8F3C51720F7AECE7008B0B3B /* HHButtonTableViewCell.m in Sources */,
+				8F3C51730F7AECE7008B0B3B /* HHItemTableViewCell.m in Sources */,
+				8F3C51740F7AECE7008B0B3B /* HHLongTableViewCell.m in Sources */,
+				8F3C51750F7AECE7008B0B3B /* HHPropertyTableViewCell.m in Sources */,
+				8F3C51760F7AECE7008B0B3B /* HHSelectionTableViewCell.m in Sources */,
+				8F3C51770F7AECE7008B0B3B /* HHStandbyTableViewCell.m in Sources */,
+				8F3C51780F7AECE7008B0B3B /* HHSubPropertyTableViewCell.m in Sources */,
+				8F3C51790F7AECE7008B0B3B /* HHTableViewCell.m in Sources */,
+				8F3C517A0F7AECE7008B0B3B /* HHTextTableViewCell.m in Sources */,
+				8F3C518B0F7AEEE7008B0B3B /* HHUserDefaultsViewController.m in Sources */,
+				8F3C51960F7AF189008B0B3B /* HHPrivacyFormatter.m in Sources */,
+				8F3C51970F7AF189008B0B3B /* HHResolutionFormatter.m in Sources */,
+				8F3C51980F7AF189008B0B3B /* HHMultivalueFormatter.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
